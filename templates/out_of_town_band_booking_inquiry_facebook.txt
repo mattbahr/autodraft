@@ -1,1 +1,0 @@
-Hi, I'm the front man in an Orlando band called the Dancing Bones. We've got a show at {{venue}} in {{city}} on {{date}} and would like you to be on the bill. Let me know if you're interested. You can check us at www.thedancingbones.com or www.facebook.com/skeletalwaltz. Thanks!
