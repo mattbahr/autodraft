@@ -1,0 +1,11 @@
+Hello,
+
+The Dancing Bones is an Orlando indie punk band interested in playing {{venue}} some time in the next few months. We play noise punk mixed with elements of psychedelia and Seattle grunge. You can check out our material at www.thedancingbones.com. We are also on Facebook at www.facebook.com/skeletalwaltz.
+
+We're new to {{city}}, but we're motivated to promote. If you're interested in booking us, I'm considering asking {{local_band}} to play with us. We're interested in any dates you might have open in {{month_range}}, but I'd like to suggest {{requested_dates}}. If that doesn't work, we'd be happy to pick another date.
+
+Please let me know if this sounds good to you. Alternatively, if you have any shows in the works that could use an opener, we'd be happy to come out for that as well.
+
+I look forward to hearing from you,
+Matt Bahr
+Guitarist/Vocalist

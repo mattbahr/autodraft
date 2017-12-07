@@ -43,13 +43,17 @@ while True:
 
     break
 
+# Reads the template file and indexes all custom fields - {{example}}
 selText = open(files[i - 1]).read()
 idx = [m.start() for m in re.finditer('{{', selText)]
 strMap = []
 
+# Maps each distinct custom field to a string input by the user
 for i in idx:
     s = selText[i:selText.find('}}', i) + 2]
     duplicate = False
+    # Avoid iterating through the entire array to check for duplicates and improve
+    # runtime by inserting values into strMap in alphabetical order based on s
     for x in strMap:
         if x[0] == s:
             duplicate = True
